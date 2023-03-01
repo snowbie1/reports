@@ -648,7 +648,7 @@ def mega_item():
                     if use_webhook_name:
                      embed = DiscordEmbed(description=research, color=1752220)        
                      webhook.username = mon_name+' Mega Energy Field Research'
-                     webhook.avatar_url = 'https://raw.githubusercontent.com/marcb1387/assets/master/energy.png'
+                     webhook.avatar_url = 'https://raw.githubusercontent.com/whitewillem/PogoAssets/main/uicons/reward/mega_resource/'+mon[0]+'.png'
                      embed.set_author(name='Research Task: '+stop[3])
                     elif use_slim_name:
                      embed = DiscordEmbed(title= mon_name+': '+stop[3], description=research, color=1752220)
@@ -656,7 +656,7 @@ def mega_item():
                      embed = DiscordEmbed(title= mon_name+' Mega Energy Field Research', description=research, color=1752220)
                      embed.set_author(name='Research Task: '+stop[3])
                     if author: embed.set_footer(text='Research by '+author, icon_url=footerimg)
-                    if use_emoji: embed.set_thumbnail(url='https://raw.githubusercontent.com/marcb1387/assets/master/energy.png') 
+                    if use_emoji: embed.set_thumbnail(url='https://raw.githubusercontent.com/whitewillem/PogoAssets/main/uicons/reward/mega_resource/'+mon[0]+'.png') 
                     webhook.add_embed(embed)
                     webhook.execute()
                     research = ''
@@ -666,7 +666,7 @@ def mega_item():
                   if use_webhook_name:
                    embed = DiscordEmbed(description=research, color=1752220)        
                    webhook.username = mon_name+' Mega Energy Field Research'
-                   webhook.avatar_url = 'https://raw.githubusercontent.com/marcb1387/assets/master/energy.png'
+                   webhook.avatar_url = 'https://raw.githubusercontent.com/whitewillem/PogoAssets/main/uicons/reward/mega_resource/'+mon[0]+'.png'
                    embed.set_author(name='Research Task: '+stop[3])
                   elif use_slim_name:
                    embed = DiscordEmbed(title= mon_name+': '+stop[3], description=research, color=1752220)
@@ -674,7 +674,7 @@ def mega_item():
                    embed = DiscordEmbed(title= mon_name+' Mega Energy Field Research', description=research, color=1752220)
                    embed.set_author(name='Research Task: '+stop[3])
                   if author: embed.set_footer(text='Research by '+author, icon_url=footerimg)
-                  if use_emoji: embed.set_thumbnail(url='https://raw.githubusercontent.com/marcb1387/assets/master/energy.png') 
+                  if use_emoji: embed.set_thumbnail(url='https://raw.githubusercontent.com/whitewillem/PogoAssets/main/uicons/reward/mega_resource/'+mon[0]+'.png') 
                   webhook.add_embed(embed)
                   webhook.execute()
                   research = ''
@@ -691,7 +691,7 @@ def mega_item():
                     if use_webhook_name:
                      embed = DiscordEmbed(description=research, color=1752220)        
                      webhook.username = mon_name+' Mega Energy Field Research'
-                     webhook.avatar_url = 'https://raw.githubusercontent.com/marcb1387/assets/master/energy.png'
+                     webhook.avatar_url = 'https://raw.githubusercontent.com/whitewillem/PogoAssets/main/uicons/reward/mega_resource/'+mon[0]+'.png'
                      embed.set_author(name='Research Task: '+stop[3])
                     elif use_slim_name:
                      embed = DiscordEmbed(title= mon_name+': '+stop[3], description=research, color=1752220)
@@ -699,7 +699,7 @@ def mega_item():
                      embed = DiscordEmbed(title= mon_name+' Mega Energy Field Research', description=research, color=1752220)
                      embed.set_author(name='Research Task: '+stop[3])
                     if author: embed.set_footer(text='Research by '+author, icon_url=footerimg)
-                    if use_emoji: embed.set_thumbnail(url='https://raw.githubusercontent.com/marcb1387/assets/master/energy.png') 
+                    if use_emoji: embed.set_thumbnail(url='https://raw.githubusercontent.com/whitewillem/PogoAssets/main/uicons/reward/mega_resource/'+mon[0]+'.png') 
                     webhook.add_embed(embed)
                     webhook.execute()
                     research = ''
@@ -709,7 +709,7 @@ def mega_item():
                   if use_webhook_name:
                    embed = DiscordEmbed(description=research, color=1752220)        
                    webhook.username = mon_name+' Mega Energy Field Research'
-                   webhook.avatar_url = 'https://raw.githubusercontent.com/marcb1387/assets/master/energy.png'
+                   webhook.avatar_url = 'https://raw.githubusercontent.com/whitewillem/PogoAssets/main/uicons/reward/mega_resource/'+mon[0]+'.png'
                    embed.set_author(name='Research Task: '+stop[3])
                   elif use_slim_name:
                    embed = DiscordEmbed(title= mon_name+': '+stop[3], description=research, color=1752220)
@@ -717,7 +717,7 @@ def mega_item():
                    embed = DiscordEmbed(title= mon_name+' Mega Energy Field Research', description=research, color=1752220)
                    embed.set_author(name='Research Task: '+stop[3])
                   if author: embed.set_footer(text='Research by '+author, icon_url=footerimg)
-                  if use_emoji: embed.set_thumbnail(url='https://raw.githubusercontent.com/marcb1387/assets/master/energy.png') 
+                  if use_emoji: embed.set_thumbnail(url='https://raw.githubusercontent.com/whitewillem/PogoAssets/main/uicons/reward/mega_resource/'+mon[0]+'.png') 
                   webhook.add_embed(embed)
                   webhook.execute()
                   research = ''
@@ -738,11 +738,11 @@ def mega_item():
                     if use_webhook_name:
                      embed = DiscordEmbed(description=research, color=1752220)        
                      webhook.username = mon_name+' Mega Energy Field Research'
-                     webhook.avatar_url = 'https://raw.githubusercontent.com/marcb1387/assets/master/energy.png'
+                     webhook.avatar_url = 'https://raw.githubusercontent.com/whitewillem/PogoAssets/main/uicons/reward/mega_resource/'+mon[0]+'.png'
                     else:
                      embed = DiscordEmbed(title= mon_name+' Mega Energy Field Research', description=research, color=1752220)
                     if author: embed.set_footer(text='Research by '+author, icon_url=footerimg)
-                    if use_emoji: embed.set_thumbnail(url='https://raw.githubusercontent.com/marcb1387/assets/master/energy.png')
+                    if use_emoji: embed.set_thumbnail(url='https://raw.githubusercontent.com/whitewillem/PogoAssets/main/uicons/reward/mega_resource/'+mon[0]+'.png')
                     webhook.add_embed(embed)
                     webhook.execute()
                     research = ''
@@ -754,11 +754,11 @@ def mega_item():
                   if use_webhook_name:
                    embed = DiscordEmbed(description=research, color=1752220)        
                    webhook.username = mon_name+' Mega Energy Field Research'
-                   webhook.avatar_url = 'https://raw.githubusercontent.com/marcb1387/assets/master/energy.png'
+                   webhook.avatar_url = 'https://raw.githubusercontent.com/whitewillem/PogoAssets/main/uicons/reward/mega_resource/'+mon[0]+'.png'
                   else:
                    embed = DiscordEmbed(title= mon_name+' Mega Energy Field Research', description=research, color=1752220)
                   if author: embed.set_footer(text='Research by '+author, icon_url=footerimg)
-                  if use_emoji: embed.set_thumbnail(url='https://raw.githubusercontent.com/marcb1387/assets/master/energy.png') 
+                  if use_emoji: embed.set_thumbnail(url='https://raw.githubusercontent.com/whitewillem/PogoAssets/main/uicons/reward/mega_resource/'+mon[0]+'.png') 
                   webhook.add_embed(embed)
                   webhook.execute()
                   research = ''
@@ -776,11 +776,11 @@ def mega_item():
                 if use_webhook_name:
                  embed = DiscordEmbed(description=research, color=1752220)        
                  webhook.username = mon_name+' Mega Energy Field Research'
-                 webhook.avatar_url = 'https://raw.githubusercontent.com/marcb1387/assets/master/energy.png'
+                 webhook.avatar_url = 'https://raw.githubusercontent.com/whitewillem/PogoAssets/main/uicons/reward/mega_resource/'+mon[0]+'.png'
                 else:
                  embed = DiscordEmbed(title= mon_name+' Mega Energy Field Research', description=research, color=1752220)
                 if author: embed.set_footer(text='Research by '+author, icon_url=footerimg)
-                if use_emoji: embed.set_thumbnail(url='https://raw.githubusercontent.com/marcb1387/assets/master/energy.png')
+                if use_emoji: embed.set_thumbnail(url='https://raw.githubusercontent.com/whitewillem/PogoAssets/main/uicons/reward/mega_resource/'+mon[0]+'.png')
                 webhook.add_embed(embed)
                 webhook.execute()
                 research = ''
@@ -792,11 +792,11 @@ def mega_item():
               if use_webhook_name:
                embed = DiscordEmbed(description=research, color=1752220)        
                webhook.username = mon_name+' Mega Energy Field Research'
-               webhook.avatar_url = 'https://raw.githubusercontent.com/marcb1387/assets/master/energy.png'
+               webhook.avatar_url = 'https://raw.githubusercontent.com/whitewillem/PogoAssets/main/uicons/reward/mega_resource/'+mon[0]+'.png'
               else:
                embed = DiscordEmbed(title= mon_name+' Mega Energy Field Research', description=research, color=1752220)
               if author: embed.set_footer(text='Research by '+author, icon_url=footerimg)
-              if use_emoji: embed.set_thumbnail(url='https://raw.githubusercontent.com/marcb1387/assets/master/energy.png') 
+              if use_emoji: embed.set_thumbnail(url='https://raw.githubusercontent.com/whitewillem/PogoAssets/main/uicons/reward/mega_resource/'+mon[0]+'.png') 
               webhook.add_embed(embed)
               webhook.execute()
               research = ''
